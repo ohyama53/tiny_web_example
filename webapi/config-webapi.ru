@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # 20160513
+# Add 2016.05.14 By Nomura.
 
 $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 
